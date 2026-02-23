@@ -1,0 +1,22 @@
+{
+  "telegram": {
+    "token": "",
+    "ids": {
+      "chat_id": 0,
+      "alerts_thread_id": 0,
+      "news_thread_id": 0,
+      "charts_thread_id": 0,
+      "system_thread_id": 0,
+      "commands_thread_id": 0
+    }
+  },
+
+  "alpaca": {
+    "ALPACA_API_KEY": "",
+    "ALPACA_API_SECRET": "",
+    "ALPACA_ENDPOINT": "https://paper-api.alpaca.markets"
+  },
+
+  "symbols": ["TSLA", "AAPL"],
+  "DB_URI": "postgresql://user:password@localhost:5432/alerts"
+}
