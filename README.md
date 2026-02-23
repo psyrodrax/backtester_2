@@ -1,3 +1,1 @@
-# Stock Alert System
-
-A modular system for generating stock trading alerts, running strategies, and sending notifications via Telegram.
+This is my second backtester. It is set up differently with better ways to create and configure statistics than the previous backtester. Data visualization here is also improved quite a bit. I mainly use this to research short strategies or swing strategies.
